@@ -14,9 +14,8 @@ This project establishes a **Software-in-the-Loop (SITL)** research environment 
 * **Ground Station:** MAVProxy / Mission Planner
 * **Language:** Python 3, Bash, C++
 
-
 ## 📺 Simulation Demo
-[![Watch the Flight Sim]((https://asciinema.org/a/Un8f7IoQuf0EcexezXfXkIfie))
+[![Watch the Flight Sim](https://asciinema.org/a/Un8f7IoQuf0EcexezXfXkIfie.svg)](https://asciinema.org/a/Un8f7IoQuf0EcexezXfXkIfie)
 
 ### ⚙️ Installation & Setup
 *Documenting the build process for Fedora Linux:*
